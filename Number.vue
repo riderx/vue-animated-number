@@ -1,5 +1,5 @@
 <template>
-    <span v-on="$listeners" v-bind="$attrs">{{ tweenedNumber }}</span>
+    <span v-bind="$attrs" v-on="$listeners" >{{ tweenedNumber }}</span>
 </template>
 
 <script>
