@@ -1,4 +1,4 @@
-# Animated Counter - Number  ![VueJS v2.x compatible](https://img.shields.io/badge/vue%202.x-compatible-green.svg)
+# Animated Counter - Number  ![VueJS v3.x compatible](https://img.shields.io/badge/vue%203.x-compatible-green.svg)
 
 This is a Vue number plugin. It animates the number that you pass in prop.
 
