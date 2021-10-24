@@ -7,12 +7,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkoik/vue-animated-number.git"
+    "url": "git+https://github.com/riderx/vue-animated-number.git"
   },
   "bugs": {
-    "url": "https://github.com/nkoik/vue-animated-number/issues"
+    "url": "https://github.com/riderx/vue-animated-number/issues"
   },
-  "homepage": "https://github.com/nkoik/vue-animated-number",
+  "homepage": "https://github.com/riderx/vue-animated-number",
   "keywords": [
     "vue",
     "vuejs",
@@ -30,6 +30,6 @@
   ],
   "private": false,
   "dependencies": {
-    "gsap": "^3.6.0"
+    "gsap": "^3.8.0"
   }
 }
