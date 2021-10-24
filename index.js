@@ -1,4 +1,4 @@
-import Number from './Number.vue'
+export Number from './Number.vue'
 
 const VueNumber = {
   install: function (Vue) {
